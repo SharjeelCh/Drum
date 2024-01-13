@@ -1,4 +1,3 @@
-// JavaScript Drum Kit App
 
 {
     const playingClass = "playing",
